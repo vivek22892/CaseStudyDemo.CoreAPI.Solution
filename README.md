@@ -1,0 +1,1 @@
+# CaseStudyDemo.CoreAPI.Solution
